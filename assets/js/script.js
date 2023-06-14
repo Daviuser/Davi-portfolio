@@ -3,7 +3,7 @@
 
 
 /**
- * navbar toggle
+ * navbar alternar
  */
 
 const header = document.querySelector("[data-header]");
@@ -15,7 +15,7 @@ navToggleBtn.addEventListener("click", function () {
 });
 
 /**
- * toggle the navbar when click any navbar link
+ * alternar a barra de navegação ao clicar em qualquer link da barra de navegação
  */
 
 const navbarLinks = document.querySelectorAll("[data-nav-link]");
@@ -32,7 +32,7 @@ for (let i = 0; i < navbarLinks.length; i++) {
 
 
 /**
- * back to top & header
+ *voltar ao topo & cabeçalho
  */
 
 const backTopBtn = document.querySelector("[data-back-to-top]");
