@@ -32,7 +32,7 @@ for (let i = 0; i < navbarLinks.length; i++) {
 
 
 /**
- *voltar ao topo & cabeçalho
+ *voltar ao topo e cabeçalho
  */
 
 const backTopBtn = document.querySelector("[data-back-to-top]");
